@@ -2,14 +2,33 @@
 
 Saya adalah seorang Software Engineer yang bersemangat dalam membangun aplikasi yang efisien dan desain antarmuka yang intuitif.
 
-### 🛠️ Tech Stack
-- **Backend:** Laravel
-- **Mobile:** Kotlin
-- **Design:** Figma, Blender
-- **Game Dev, AR & VR:** Unity, Vuforia Engine, Spatial.io
+### 🛠️ Tech Stack & Tools
+
+**Backend & Data**<br>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Mobile Development**<br>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**UI/UX & 3D Design**<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+**Game Dev, AR & VR**<br>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Vuforia Engine](https://img.shields.io/badge/Vuforia-8B2323?style=for-the-badge)
+![Spatial.io](https://img.shields.io/badge/Spatial.io-E23B56?style=for-the-badge)
 
 ### 📫 Cara menghubungi saya
-- LinkedIn: https://www.linkedin.com/in/muhammad-nabiluddin-b3634a333/
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nabiluddin-b3634a333/)
+
 ### 🐍 My GitHub Contribution Snake
 <div align="center">
   <picture>
