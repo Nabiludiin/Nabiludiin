@@ -10,3 +10,8 @@ Saya adalah seorang Software Engineer yang bersemangat dalam membangun aplikasi 
 
 ### 📫 Cara menghubungi saya
 - LinkedIn: https://www.linkedin.com/in/muhammad-nabiluddin-b3634a333/
+
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nabiludiin/Nabiludiin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
